@@ -1,8 +1,8 @@
-﻿# Автоматизация работы Турагенства
+﻿# Помошник покупателя
 
 ![Static Badge](https://img.shields.io/badge/Yamemik-ConsumerGuide-ConsumerGuide)
 ![GitHub top language](https://img.shields.io/github/languages/top/Yamemik/ConsumerGuide)
-![GitHub](https://img.shields.io/github/license/Yamemik/travel-agency)
+![GitHub](https://img.shields.io/github/license/Yamemik/ConsumerGuide)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Yamemik/ConsumerGuide)
 ![GitHub issues](https://img.shields.io/github/issues/Yamemik/ConsumerGuide)
 
