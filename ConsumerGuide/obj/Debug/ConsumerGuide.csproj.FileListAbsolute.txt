@@ -1,0 +1,34 @@
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\bin\Debug\ConsumerGuide.exe.config
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\bin\Debug\ConsumerGuide.exe
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\bin\Debug\ConsumerGuide.pdb
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide.csprojAssemblyReference.cache
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\obj\Debug\MainWindow.g.cs
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\obj\Debug\App.g.cs
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide_MarkupCompile.cache
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide_MarkupCompile.lref
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\obj\Debug\MainWindow.baml
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide.g.resources
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide.Properties.Resources.resources
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide.csproj.GenerateResource.cache
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide.csproj.CoreCompileInputs.cache
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide.exe
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide.pdb
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\obj\Debug\AboutWindow.g.cs
+D:\!Visual Studio Source\ConsumerGuide\ConsumerGuide\obj\Debug\AboutWindow.baml
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\bin\Debug\ConsumerGuide.exe.config
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\bin\Debug\ConsumerGuide.exe
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\bin\Debug\ConsumerGuide.pdb
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide.csprojAssemblyReference.cache
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\obj\Debug\AboutWindow.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\obj\Debug\MainWindow.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\obj\Debug\App.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide_MarkupCompile.cache
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide_MarkupCompile.lref
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\obj\Debug\AboutWindow.baml
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\obj\Debug\MainWindow.baml
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide.g.resources
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide.Properties.Resources.resources
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide.csproj.GenerateResource.cache
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide.csproj.CoreCompileInputs.cache
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide.exe
+C:\Users\kuanc\YandexDisk\C#.NET\ConsumerGuide\ConsumerGuide\obj\Debug\ConsumerGuide.pdb
